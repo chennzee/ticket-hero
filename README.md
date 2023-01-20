@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
-    <img src="https://komarev.com/ghpvc/?username=ticket-hero&style=flat-square&color=blue" alt=""/>
+<!--    <img src="https://komarev.com/ghpvc/?username=ticket-hero&style=flat-square&color=blue" alt=""/>-->
     <h1>
   hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
     </h1>
@@ -25,14 +25,14 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ticket-hero&theme=nord_dark" >
 </p>
 
+<!-------->
+
+<!--<img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.classic.svg" alt=""></img>-->
+<!--<img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.organization.svg" alt=""></img>-->
+
+<!--[![Github all releases](https://img.shields.io/github/downloads/Naereen/StrapDown.js/total.svg)](https://GitHub.com/Naereen/StrapDown.js/releases/)-->
+<!--[![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Naereen/badges)-->
+
 ----
 
-<img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.classic.svg" alt=""></img>
-<img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.organization.svg" alt=""></img>
-
-[![Github all releases](https://img.shields.io/github/downloads/Naereen/StrapDown.js/total.svg)](https://GitHub.com/Naereen/StrapDown.js/releases/)
-[![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Naereen/badges)
-
-----
-
-![Profile views](https://profile-counter.glitch.me/ticket-hero/count.svg)
+<!--![Profile views](https://profile-counter.glitch.me/ticket-hero/count.svg)-->

@@ -27,8 +27,8 @@
 
 ----
 
-<img alt="" width="400" src="https://github.com/lowlighter/ticket-hero/blob/examples/metrics.classic.svg" alt=""></img>
-<img alt="" width="400" src="https://github.com/lowlighter/ticket-hero/blob/examples/metrics.organization.svg" alt=""></img>
+<img alt="" width="400" src="https://github.com/lowlighter/ticket-hero/blob/examples/ticket-hero.classic.svg" alt=""></img>
+<img alt="" width="400" src="https://github.com/lowlighter/ticket-hero/blob/examples/ticket-hero.organization.svg" alt=""></img>
 
 ----
 

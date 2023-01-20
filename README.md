@@ -27,27 +27,10 @@
 
 ----
 
-<details open>
-    <summary>Worldmap</summary>
-    <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.stargazers.worldmap.svg" alt=""></img>
-</details>
+<img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.classic.svg" alt=""></img>
+<img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.organization.svg" alt=""></img>
 
 ----
 
 ![Profile views](https://profile-counter.glitch.me/ticket-hero/count.svg)
 
-
-<table>
-    <tr>
-        <th align="center">For user accounts</th>
-        <th align="center">For organization accounts</th>
-    </tr>
-    <tr>
-        <td align="center">
-            <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.classic.svg" alt=""></img>
-        </td>
-        <td align="center">
-            <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.organization.svg" alt=""></img>
-        </td>
-    </tr>
-</table>

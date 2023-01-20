@@ -29,6 +29,9 @@
 
 <img alt="" width="400" src="https://github.com/lowlighter/ticket-hero/blob/examples/ticket-hero.classic.svg" alt=""></img>
 <img alt="" width="400" src="https://github.com/lowlighter/ticket-hero/blob/examples/ticket-hero.organization.svg" alt=""></img>
+[![PyPI download month](https://img.shields.io/pypi/dm/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
+[![PyPI download week](https://img.shields.io/pypi/dw/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
+[![PyPI download day](https://img.shields.io/pypi/dd/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
 
 ----
 

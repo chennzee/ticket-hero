@@ -35,8 +35,16 @@ hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
 
 ----
 
-<div align="center">
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
+### Spotify Playing 🎧
+
+[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/31xncutsjftde6tov3a45cja7t3q?si=2eb0165bdaa14cd2)
+
+----
+
+<div align="center">
+    <img align='right' src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" width="400">
 ![Profile views](https://profile-counter.glitch.me/ticket-heros/count.svg)
 
 </div>

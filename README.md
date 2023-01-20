@@ -1,11 +1,9 @@
----
-title: My Gateway API Doc
-class: no-copy-code
-disable_image_expand: true
----
+[google]: https://www.google.com/
 
-### [title]
-### [username]
+If you want to search for something on the web, [google] is a nice place.
+
+You can also use [google] to host some stuff and make a great app!
+
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>

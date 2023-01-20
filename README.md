@@ -30,13 +30,9 @@
 <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.classic.svg" alt=""></img>
 <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.organization.svg" alt=""></img>
 
+[![Github all releases](https://img.shields.io/github/downloads/Naereen/StrapDown.js/total.svg)](https://GitHub.com/Naereen/StrapDown.js/releases/)
+[![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Naereen/badges)
 
-[![Github all releases](https://img.shields.io/github/downloads/ticket-hero/StrapDown.js/total.svg)](https://GitHub.com/ticket-hero/StrapDown.js/releases/)
-
-[![GitHub stars](https://badgen.net/github/stars/ticket-hero/Strapdown.js)](https://GitHub.com/ticket-hero/StrapDown.js/stargazers/)
-[![GitHub stars](https://img.shields.io/github/stars/ticket-hero/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/ticket-hero/StrapDown.js/stargazers/)
-
-[![Sparkline](https://stars.medv.io/ticket-hero/badges.svg)](https://stars.medv.io/ticket-hero/badges)
 ----
 
 ![Profile views](https://profile-counter.glitch.me/ticket-hero/count.svg)

@@ -27,8 +27,8 @@
 
 ----
 
-<img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.classic.svg" alt=""></img>
-<img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.organization.svg" alt=""></img>
+<img alt="" width="400" src="https://github.com/lowlighter/ticket-hero/blob/examples/metrics.classic.svg" alt=""></img>
+<img alt="" width="400" src="https://github.com/lowlighter/ticket-hero/blob/examples/metrics.organization.svg" alt=""></img>
 
 ----
 

@@ -14,7 +14,7 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ticket-hero&theme=radical&show_icons=true&include_all_commits=true)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ticket-hero&theme=radical&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ticket-hero&theme=chartreuse-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![Trophy](https://github-profile-trophy.vercel.app/?username=ticket-hero&theme=blue-green)
+![Trophy](https://github-profile-trophy.vercel.app/?username=ticket-hero&theme=dracula)
 
 ----
 

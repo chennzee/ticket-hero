@@ -1,3 +1,10 @@
+---
+title: My Gateway API Doc
+class: no-copy-code
+disable_image_expand: true
+---
+
+### [title]
 ### [username]
 
 <div id="header" align="center">

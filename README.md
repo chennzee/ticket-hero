@@ -1,4 +1,4 @@
-[google]: https://www.google.com/
+[google]: ticket-hero
 
 If you want to search for something on the web, [google] is a nice place.
 

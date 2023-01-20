@@ -27,8 +27,8 @@
 
 ----
 
-<img alt="" width="400" src="https://github.com/lowlighter/matrics/blob/examples/matrics.classic.svg" alt=""></img>
-<img alt="" width="400" src="https://github.com/lowlighter/matrics/blob/examples/matrics.organization.svg" alt=""></img>
+<img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.classic.svg" alt=""></img>
+<img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.organization.svg" alt=""></img>
 
 
 [![Github all releases](https://img.shields.io/github/downloads/ticket-hero/StrapDown.js/total.svg)](https://GitHub.com/ticket-hero/StrapDown.js/releases/)

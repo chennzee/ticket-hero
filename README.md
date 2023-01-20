@@ -21,11 +21,11 @@
 <p align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ticket-hero&theme=nord_dark" >
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ticket-hero&theme=nord_dark" >
-<!--    <img src="https://github-profile-trophy.vercel.app/?username=ticket-hero&theme=darkhub&show_icons=true&include_all_commits=true" >-->
-    <img src="https://github-readme-stats.vercel.app/api?username=ticket-hero&theme=blue-green" width="400" >
+<!--    <img src="https://github-profile-trophy.vercel.app/?username=ticket-hero&theme=darkhub" >-->
+    <img src="https://github-readme-stats.vercel.app/api?username=ticket-hero&theme=radical&show_icons=true&include_all_commits=true" width="400" >
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ticket-hero&theme=chartreuse-dark&layout=compact" width="335" >
 </p>
 
 ----
 
-![Profile views](https://profile-counter.glitch.me/ticket-hero/count.svg)
+![Profile views](https://p/rofile-counter.glitch.me/ticket-hero/count.svg)
